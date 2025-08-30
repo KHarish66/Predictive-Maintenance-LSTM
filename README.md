@@ -46,7 +46,7 @@ Description
 
 RMSE (Root Mean Squared Error)
 
-18.70 cycles
+17.85 cycles
 
 The model's predictions are, on average, off by only ~19 operational cycles.
 
